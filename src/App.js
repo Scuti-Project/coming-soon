@@ -73,7 +73,7 @@ class App extends React.Component {
       _blank " rel="
       noopener noreferrer ">React</a> | <a className="
       underlined " href="
-      https: //github.com/Scuti-Project" title="GitHub repo" target="_blank" rel="noopener noreferrer">GitHub</a></span>
+      https: //github.com/Scuti-Project/coming-soon" title="GitHub repo" target="_blank" rel="noopener noreferrer">GitHub</a></span>
       <
       /div> < /
       div >

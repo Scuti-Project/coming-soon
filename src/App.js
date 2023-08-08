@@ -19,7 +19,7 @@ class App extends React.Component {
       <
       div className = "logo" >
       <
-      a href = "." > Scuti Project < /a> < /
+      a href = "." > CariVendor.com < /a> < /
       div > <
       div className = "social" >
       <
@@ -39,7 +39,7 @@ class App extends React.Component {
       IconTwitter className = "icon" / >
       <
       /a> <
-      a href = "https://github.com/Scuti-Project"
+      a href = "https://github.com/fadhila36"
       title = "GitHub"
       target = "_blank"
       rel = "noopener noreferrer" >
@@ -58,7 +58,7 @@ class App extends React.Component {
       p > Website coming soon.Please check back to know more.Shoot us an email
       if you 're curious.</p> < /
       div > <
-      a href = "mailto:scuti.project@gmail.com" >
+      a href = "mailto:irvansudirmann@gmail.com" >
       <
       div className = "cta" > Send us an email < /div> < /
       a > <
@@ -66,7 +66,7 @@ class App extends React.Component {
       div className = "footer" >
       <
       span > made by < a className = "underlined"
-      href = "https://github.com/Scuti-Project"
+      href = "https://github.com/fadhila36"
       target = "_blank"
       rel = "noopener noreferrer" > Scuti Project < /a> using <a className="underlined" href="https:/ / reactjs.org / " title="
       ReactJS " target="

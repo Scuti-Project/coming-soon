@@ -19,7 +19,7 @@ class App extends React.Component {
       <
       div className = "logo" >
       <
-      a href = "." > CariVendor.com < /a> < /
+      a href = "." > Carivendor.com < /a> < /
       div > <
       div className = "social" >
       <
